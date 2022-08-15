@@ -1,6 +1,8 @@
-# vfp2py
-vfp2py is an attempt to create a tool to automatically create python code from
+# vfp2stats
+vfp2stats is an attempt to create a tool to automatically extract stats, control flow and data flow information from
 foxpro 9 code.
+
+This was a fork from 
 
 Many but not nearly all commands are currently supported with missing commands
 to be added as need arises. Conversion can be done on individual prg files or
